@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/61139ea58ad4af34401c768c
+Content-Type: application/json
+
+{
+    "author": "Saurav",
+    "title":"Saurav ho",
+    "url": "sauravho.com",
+    "likes":322
+}
